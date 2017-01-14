@@ -1,0 +1,14 @@
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ConsoleApplicationForModel.exe.config
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ConsoleApplicationForModel.exe
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ConsoleApplicationForModel.pdb
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ModelClassLibrary.dll
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ModelClassLibrary.pdb
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.csprojResolveAssemblyReference.cache
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.exe
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.pdb
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ConsoleApplicationForModel.exe.config
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.exe
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.pdb
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ConsoleApplicationForModel.exe.config
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.exe
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.pdb

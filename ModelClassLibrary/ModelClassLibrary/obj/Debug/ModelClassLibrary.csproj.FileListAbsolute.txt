@@ -1,0 +1,5 @@
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\Testing\FirstWebDriverApp\UNL IT Solutions Test Task\ModelClassLibrary\ModelClassLibrary\obj\Debug\ModelClassLibrary.csprojResolveAssemblyReference.cache

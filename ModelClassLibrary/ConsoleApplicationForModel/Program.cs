@@ -33,6 +33,13 @@ namespace ConsoleApplicationForModel
             newModel.ShowTotalJourneyTime(new string[] { "Buenos Aires",  "Cape Town",  "Casablanca" });
 
 
+
+            Console.WriteLine("\n");
+            newModel.ShowShortJourneyTime(new string[] { "Buenos Aires","Liverpool"});
+
+            Console.WriteLine("\n");
+            newModel.ShowShortJourneyTime(new string[] { "New York", "New York" });
+
             Console.ReadLine();
         }
     }

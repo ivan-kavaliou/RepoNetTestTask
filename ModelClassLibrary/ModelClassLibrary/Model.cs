@@ -84,12 +84,12 @@ namespace ModelClassLibrary
             }
         }
 
-        public void ShowTotalJourneyTime(params string[] values)
+        public int ShowTotalJourneyTime(params string[] values)
         {
             var totalJourneyTime = new int();
             totalJourneyTime = 0;
 
-            Console.Write("Total journey time of journey: ");
+            Console.Write("Total journey time ");
 
             for (int i = 0; i < values.Length - 1; i++)
             {
@@ -111,8 +111,40 @@ namespace ModelClassLibrary
                 }
             }
 
-            Console.Write(totalJourneyTime);
-            // System.Console.WriteLine("): {0}", (float)sum / values.Length);
+            Console.Write(totalJourneyTime+".");
+            return totalJourneyTime;
         }
+
+        public int ShowShortJourneyTime(params string[] values)
+        {
+            var totalShortJourneyTime = new int();
+            totalShortJourneyTime = 0;
+
+            Console.Write("Total short journey time of journey: ");
+
+            for (int i = 0; i < values.Length - 1; i++)
+            {
+                Console.Write(values[i] + " -> ");
+            }
+            Console.Write(values[values.Length - 1] + " is ");
+
+            //Calculate the short total journey time
+
+            for (int i = 1; i < values.Length; i++)
+            {
+                totalShortJourneyTime += CalculatedNode[DicNameOfPoints[values[i - 1]], DicNameOfPoints[values[i]]];
+
+                if (totalShortJourneyTime > 10000)
+                {
+                    Console.WriteLine("Error! The route is missed");
+                    totalShortJourneyTime = -1;
+                    break;
+                }
+            }
+
+            Console.WriteLine(totalShortJourneyTime + ".");
+            return totalShortJourneyTime;
+        }
+
     }
 }

@@ -12,3 +12,8 @@ C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\ModelClassLibrary\ConsoleA
 C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ConsoleApplicationForModel.exe.config
 C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.exe
 C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.pdb
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ConsoleApplicationForModel.exe
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ConsoleApplicationForModel.pdb
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ModelClassLibrary.dll
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\bin\Debug\ModelClassLibrary.pdb
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ConsoleApplicationForModel\obj\Debug\ConsoleApplicationForModel.csprojResolveAssemblyReference.cache

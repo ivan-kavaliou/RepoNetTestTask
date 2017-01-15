@@ -1,0 +1,9 @@
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\bin\Debug\ModelClassLibraryTests.dll
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\bin\Debug\ModelClassLibraryTests.pdb
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\bin\Debug\ModelClassLibrary.dll
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\bin\Debug\ModelClassLibrary.pdb
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\obj\Debug\ModelClassLibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\obj\Debug\ModelClassLibraryTests.dll
+C:\Users\Ivan\Source\Repos\UNL IT Solutions Test Task\RepoNetTestTask\ModelClassLibrary\ModelClassLibraryTests\obj\Debug\ModelClassLibraryTests.pdb
